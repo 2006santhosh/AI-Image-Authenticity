@@ -1,31 +1,3 @@
-PS C:\Users\adith\Desktop\AI Authenticity Project\project1\ai-auth> git add README.md
-PS C:\Users\adith\Desktop\AI Authenticity Project\project1\ai-auth> git status
-interactive rebase in progress; onto def7d4b
-Last command done (1 command done):
-   pick ff6d263 # Initial commit
-No commands remaining.
-You are currently editing a commit while rebasing branch 'main' on 'def7d4b'.
-  (use "git commit --amend" to amend the current commit)
-  (use "git rebase --continue" once you are satisfied with your changes)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-        modified:   Backend/__pycache__/main.cpython-313.pyc
-
-no changes added to commit (use "git add" and/or "git commit -a")
-PS C:\Users\adith\Desktop\AI Authenticity Project\project1\ai-auth> git commit -m "Updated Readme.md"
-interactive rebase in progress; onto def7d4b
-Last command done (1 command done):
-   pick ff6d263 # Initial commit
-No commands remaining.
-You are currently editing a commit while rebasing branch 'main' on 'def7d4b'.
-  (use "git commit --amend" to amend the current commit)
-  (use "git rebase --continue" once you are satisfied with your changes)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard AuthentiScan – Image Type Classification System (Stage 1)
 
 AuthentiScan is a web-based application that analyzes an uploaded image and classifies it based on its visual appearance.
 This is the initial stage of a multi-stage image authenticity pipeline.
